@@ -1,4 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Hello word"
 ---
+
+```python
+
+def hello(who: str = 'world'):
+    print(f'Hello {who}!!')
+```
